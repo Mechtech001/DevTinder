@@ -22,6 +22,7 @@ A developer networking backend that helps developers discover profiles, express 
 - Socket.IO
 - Razorpay
 - dotenv
+- React.js
 
 ## Prerequisites
 
